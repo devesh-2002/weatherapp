@@ -1,0 +1,35 @@
+.weatherBg {
+    background: url('https://www.holidify.com/images/cmsuploads/compressed/5178370421538677813276543540557690616938496o_20210219190514.jpg');
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h1.heading {
+    color: white;
+    font-weight: bold;
+}
+
+.weatherResultBox {
+    margin: auto;
+    height: 300px;
+    width: 500px;
+    background-color: lightyellow;
+}
+
+.weatherIcon {
+    margin-top: 2rem;
+    width: 100px;
+    height: 100px;
+}
+
+.weatherCity {
+    font-size: 35px;
+}
+
+.weatherTemp {
+    font-size: 55px;
+    font-weight: 700;
+}
