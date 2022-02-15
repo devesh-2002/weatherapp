@@ -3,4 +3,4 @@ Enter name of a place, and this site will show the current weather conditions ac
 ## Tech Stacks
 1. HTML
 2. CSS
-3. React
+3. React.js
