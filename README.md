@@ -1,5 +1,5 @@
 # weatherapp
-Enter name of a place, and this site will show the current weather conditions across that place.
+This is a simple site shows Weather of the place which user inputs. 
 ## Tech Stacks
 1. HTML
 2. CSS
