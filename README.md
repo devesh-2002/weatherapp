@@ -6,5 +6,8 @@ This is a simple site shows Weather of the place which user inputs.
 3. React.js
 ## Run the project
 1. Fork the project.
-2. Clone into your repository.
-3. Run the project on ```localhost:3000```
+2. Clone the forked repository.
+```git clone 
+https://github.com/<username>/weatherapp 
+```
+3. Run the project on ```http://localhost:3000/```
