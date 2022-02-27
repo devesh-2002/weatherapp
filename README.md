@@ -10,5 +10,5 @@ This is a simple site shows Weather of the place which user inputs.
 ```git clone 
 https://github.com/<username>/weatherapp 
 ```
-3. Open git bash.
-4. Run the project on ```http://localhost:3000/```
+3. Open git bash, cd into the folder.
+4. Run the project on localhost:3000.
