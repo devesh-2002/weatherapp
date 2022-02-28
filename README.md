@@ -1,5 +1,5 @@
 # weatherapp
-This is a simple site shows Weather of the place which user inputs. 
+This is a simple website shows Weather of the place which user inputs. 
 ## Tech Stacks
 1. HTML
 2. CSS
@@ -12,3 +12,4 @@ https://github.com/<username>/weatherapp
 ```
 3. Open git bash, cd into the folder.
 4. Run the project on localhost:3000.
+
